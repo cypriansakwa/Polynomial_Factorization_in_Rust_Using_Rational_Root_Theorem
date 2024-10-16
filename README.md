@@ -31,5 +31,5 @@ This Rust program implements polynomial factorization using the Rational Root Th
 ## Clone the repository:
 
    ```bash
-   git clone Polynomial_Factorization_in_Rust_Using_Rational_Root_Theorem.git
+   git clone https://github.com/cypriansakwa/Polynomial_Factorization_in_Rust_Using_Rational_Root_Theorem.git
    cd Polynomial_Factorization_in_Rust_Using_Rational_Root_Theorem
